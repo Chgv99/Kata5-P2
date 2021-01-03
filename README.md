@@ -1,12 +1,5 @@
-# Kata 1
+# Kata 5
 
-Código que calcula la edad a partir de la fecha de nacimiento.
+Programa que crea un histograma de los dominios de una lista de correos electrónicos almacenados en una base de datos. La base de datos se encuentra almacenada dentro de la carpeta de cada versión.
 
-### Versión 1
-Se usa la clase *java.utils.Date* (obsoleta).
-
-### Versión 2
-En este caso se usan *Calendar* y *GregorianCalendar*.
-
-### Versión 3
-Finalmente, usamos la clase *LocalDate*
+Esta segunda parte consiste en la aplicación de lo visto en la primera parte en la kata 4, es decir, la creación de un histograma a partir de una base de datos en lugar de un archivo de texto.
